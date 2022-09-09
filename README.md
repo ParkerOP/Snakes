@@ -18,11 +18,15 @@ git clone https://github.com/ParkerOP/Snakes.git
 
 If you don't want to install git, alternate way for the above command is :
 
-*1. Click on the 'Code' box, located at the right corner just above the file.*
+*1. Click on the 'Code' box, located at the right corner just above the files.*
+
+[](img.png)
 
 *2. Click on 'Download ZIP' to download the zip file.*
 
-*3. Extract the file using any of WinRAR, 7Zip, etc.*
+[](img_2.png)
+
+*3. Extract the file using any file archiver like WinRAR, 7Zip, etc.*
 
 You're all set up!
 
