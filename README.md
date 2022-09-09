@@ -19,7 +19,9 @@ git clone https://github.com/ParkerOP/Snakes.git
 If you don't want to install git, alternate way for the above command is :
 
 *1. Click on the 'Code' box, located at the right corner just above the file.*
+
 *2. Click on 'Download ZIP' to download the zip file.*
+
 *3. Extract the file using any of WinRAR, 7Zip, etc.*
 
 You're all set up!
@@ -29,5 +31,5 @@ You're all set up!
 Running the game is as easy as eating noodles! Open the Snakes folder and double click on the snake application to run the game. Enjoy!
 
 
-[py-download] : https://www.python.org/downloads/
-[git-install] : https://git-scm.com/downloads/
+[py-download]: https://www.python.org/downloads/
+[git-install]: https://git-scm.com/downloads/
