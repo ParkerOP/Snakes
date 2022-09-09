@@ -35,5 +35,6 @@ You're all set up!
 Running the game is as easy as eating noodles! Open the Snakes folder and double click on the snake application to run the game. Enjoy!
 
 
+
 [py-download]: https://www.python.org/downloads/
 [git-install]: https://git-scm.com/downloads/
