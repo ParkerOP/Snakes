@@ -20,11 +20,11 @@ If you don't want to install git, alternate way for the above command is :
 
 *1. Click on the 'Code' box, located at the right corner just above the files.*
 
-[](img.png)
+![](img.png?raw=true)
 
 *2. Click on 'Download ZIP' to download the zip file.*
 
-[](img_2.png)
+![](img_2.png?raw=true)
 
 *3. Extract the file using any file archiver like WinRAR, 7Zip, etc.*
 
